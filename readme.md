@@ -78,6 +78,6 @@ To set up this project, you need to follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dhirar231/csrf-protection-project.git
+    git clone https://github.com/dhirar231/csrf_proj
     cd csrf-protection-project
     ```
